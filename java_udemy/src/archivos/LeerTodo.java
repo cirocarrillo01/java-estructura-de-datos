@@ -14,7 +14,7 @@ public class LeerTodo {
             for(String linea:lineas){
                 System.out.println(linea);
             }
-            lineas.forEach(System.out::println);
+            //lineas.forEach(System.out::println);
         }catch (Exception e){
             System.out.println("error al leer archivo: "+e.getMessage());
             e.printStackTrace();

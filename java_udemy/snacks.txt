@@ -1,0 +1,5 @@
+1,Papas,70.0
+2,Refresco,50.0
+3,sandwich,120.0
+4,pan,35.0
+5,galleta,10.0
